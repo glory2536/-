@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MainUI
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 56afc2b29a605ca448b8ae3a2c133f41, type: 3}
+    - {fileID: 2800000, guid: 15f46d2a1fd80544296543b6c574c1a9, type: 3}
+    - {fileID: 2800000, guid: 259a174c3e7611b43886baa54e235566, type: 3}
+    - {fileID: 2800000, guid: a6bd10abe8c3402448fdfa669ef7c1d9, type: 3}
+    - {fileID: 2800000, guid: b1bb95b6f94d0da48bf5607fe84f3c6b, type: 3}
+    - {fileID: 2800000, guid: 5665c7a3f3471dd4bbc3703f3c794062, type: 3}
+    - {fileID: 2800000, guid: 318a6bf30762a784d95c91a8eb0b73de, type: 3}
+    - {fileID: 2800000, guid: 32dc4358f5238d04f9b062fe6f1a9d8d, type: 3}
+    - {fileID: 2800000, guid: 8d9711f1444ef7c4e99dae26e87b04bf, type: 3}
+    - {fileID: 2800000, guid: 8935fb78795c98f4c853181084f0004e, type: 3}
+    - {fileID: 2800000, guid: 105d8e2999739de4886bb77c26ab31db, type: 3}
+    - {fileID: 2800000, guid: 08ad8dd1d8ce1644488d279f74b0eba1, type: 3}
+    - {fileID: 2800000, guid: 01961880c9561854084076c822bacd56, type: 3}
+    - {fileID: 2800000, guid: d563a064d0b6f234ea5854e92006fb81, type: 3}
+    - {fileID: 2800000, guid: 93bbc506493785f4a93621992decb320, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 01961880c9561854084076c822bacd56, type: 3}
+  - {fileID: 21300000, guid: 08ad8dd1d8ce1644488d279f74b0eba1, type: 3}
+  - {fileID: 21300000, guid: 8d9711f1444ef7c4e99dae26e87b04bf, type: 3}
+  - {fileID: 21300000, guid: 56afc2b29a605ca448b8ae3a2c133f41, type: 3}
+  - {fileID: 21300000, guid: 5665c7a3f3471dd4bbc3703f3c794062, type: 3}
+  - {fileID: 21300000, guid: 318a6bf30762a784d95c91a8eb0b73de, type: 3}
+  - {fileID: 21300000, guid: d563a064d0b6f234ea5854e92006fb81, type: 3}
+  - {fileID: 21300000, guid: 93bbc506493785f4a93621992decb320, type: 3}
+  - {fileID: 21300000, guid: b1bb95b6f94d0da48bf5607fe84f3c6b, type: 3}
+  - {fileID: 21300000, guid: 32dc4358f5238d04f9b062fe6f1a9d8d, type: 3}
+  - {fileID: 21300000, guid: 8935fb78795c98f4c853181084f0004e, type: 3}
+  - {fileID: 21300000, guid: 105d8e2999739de4886bb77c26ab31db, type: 3}
+  - {fileID: 21300000, guid: 15f46d2a1fd80544296543b6c574c1a9, type: 3}
+  - {fileID: 21300000, guid: a6bd10abe8c3402448fdfa669ef7c1d9, type: 3}
+  - {fileID: 21300000, guid: 259a174c3e7611b43886baa54e235566, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - T_5_drop_
+  - Slider19_Fusion_Fill
+  - Play_Joystick_Attack_00_s
+  - axe1
+  - magnifier
+  - map
+  - T_28_bread_
+  - 00_btn_icon_sword_1
+  - InventorySlotItemBg
+  - pickaxe
+  - rod
+  - SkillSlotGlow
+  - backpack
+  - gear2
+  - button_circle_2
+  m_RenderDataMap: {}
+  m_Tag: MainUI
+  m_IsVariant: 0
