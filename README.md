@@ -1,9 +1,9 @@
 # 포트폴리오
-1. MZS(포트폴리오)
+<br/>
+1. MZS(포트폴리오)<br/>
 플레이 영상 : https://youtu.be/yHl4uZsASPw?feature=shared<br/>
 
-프로젝트 기간 : 2024. 01 ~ 2024. 03
-
+프로젝트 기간 : 2024. 01 ~ 2024. 03<br/>
 사용 엔진 : Unity<br/>
 프로젝트 형상관리 : 깃허브<br/>
 계정 로그인 : 파이어베이스 인증, 구글 플레이 게임즈(구글토큰) <br/>
@@ -23,10 +23,10 @@
 Ex)<br/>
  ![image](https://github.com/glory2536/LeeYoungKwang/assets/70477086/bedc0d65-44b0-48a0-af78-e7ad2a663af1)<br/>
 
-- 층마다 존재하는 미션 및 힌트<br/>
+-층마다 존재하는 미션 및 힌트<br/>
  ![image](https://github.com/glory2536/LeeYoungKwang/assets/70477086/b8f2108c-e6c3-46a6-a246-0c83e63f5025)<br/>
 
-- 귀신에게 잡히면 죽는 연출<br/>
+-귀신에게 잡히면 죽는 연출<br/>
 
-구글플레이 : ~~https://play.google.com/store/apps/details?id=com.Escape.Escape~~ (정책 관련 문제 때문에 3월에 삭제됨)<br/>
+구글플레이 : ~~https://play.google.com/store/apps/details?id=com.Escape.Escape~~ (정책 관련 문제 때문에 2024.3월에 삭제됨)<br/>
 
