@@ -1,7 +1,7 @@
 # 포트폴리오
 <br/>
-1. MZS(포트폴리오)<br/>
-플레이 영상 : [https://youtu.be/ybUKEdF6DVU](https://youtu.be/RfHNxbCt1GQ)<br/>
+- MZS(포트폴리오)<br/>
+플레이 영상 : https://youtu.be/RfHNxbCt1GQ?feature=shared<br/>
 
 프로젝트 기간 : 2024. 01 ~ 2024. 03<br/>
 사용 엔진 : Unity<br/>
